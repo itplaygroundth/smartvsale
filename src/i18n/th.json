@@ -1,0 +1,60 @@
+{
+  "auth": {
+    "agree": "ตกลง",
+    "alreadyJoined": "พร้อมใช้งาน?",
+    "createAccount": "สร้างบัญชี",
+    "createNewAccount": "สร้างบัญชีใหม่",
+    "email": "Email",
+    "login": "เข้าสู่ระบบ",
+    "password": "รหัสผ่าน",
+    "signUp": "สมัครใช้งาน",
+    "termsOfUse": "Terms of Use.",
+    "welcome": "ป้อนข้อมูลเพื่อเข้าระบบ",
+    "logged":"เข้าสู่ระบบสำเร็จ!"
+  },
+  "breadcrumbs": {
+    "home": "Home"
+  },
+   "language": {
+    "brazilian_portuguese": "Português",
+    "thai": "ไทย",
+    "english": "อังกฤษ",
+    "spanish": "Spanish"
+  },
+  "menu": {
+    "pos": "POS",
+    "sale": "ขาย",
+    "openregister":"เปิดกะ/ปิดกะ",
+    "salehistory":"ประวัติการขาย",
+    "cashmanage":"บริหารเงินขาย",
+    "stock": "สินค้า",
+    "product":"สินค้า",
+    "stockcontrol": "บริหารสินค้า",
+    "promotion":"โปรโมชั่น",
+    "pricelist":"ตารางราคา",
+    "suppliers":"ผู้จำหน่าย",
+    "producttags":"แท็กสินค้า",
+    "customers":"ลูกค้า",
+    "customer":"ลูกค้า",
+    "customergroup":"กลุ่มลูกค้า",
+    "reports":"รายงาน",
+    "registerreport":"รายงานการเปิด/ปิดกะ",
+    "salereport":"รายงานการขาย",
+    "stockreport":"รายงานสินค้า",
+    "receiptreport":"รายงานรับชำระ"
+    },
+    "user": {
+      "language": "เปลี่ยนภาษา",
+      "logout": "ออกจากระบบ",
+      "switch": "สลับผู้ใช้"
+    },
+    "stock":{
+      "orderproduct":"สั่งสินค้า",
+      "countproduct":"ตรวจนับสินค้า",
+      "returnproduct":"ส่งสืนค้าคืน",
+      "transferproduct":"โอนสินค้า",
+      "requisition":"เบิกใช้สินค้า"
+
+    }
+
+}
